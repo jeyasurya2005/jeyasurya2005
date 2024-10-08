@@ -1,9 +1,9 @@
 - 👋 Hi, I’m jeysurya
 - 👀 I’m interested in electrical
-- - 🌱 I’m currently learning BE.EEE
+-  🌱 I’m currently learning BE.EEE
 
-- 📫 How to reach me 
-- 
+- 📫 How to reach me jayasuryas006@gmail.com
+  
   
 
 <!---
